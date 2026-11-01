@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sound wave bars morphing into microphone / neural voice pattern -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,46h4v16h-4z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M35,38h4v32h-4z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M42,30h4v48h-4z" />
+    <!-- Center Microphone capsule & stand -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M50,30c0,-2.2 1.8,-4 4,-4s4,1.8 4,4v24c0,2.2 -1.8,4 -4,4s-4,-1.8 -4,-4V30z" />
+    <path
+        android:strokeColor="#C084FC"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M45,45c0,5 4,9 9,9s9,-4 9,-9" />
+    <path
+        android:strokeColor="#C084FC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,55v13" />
+    <path
+        android:strokeColor="#C084FC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M48,68h12" />
+    <!-- Symmetrical Right Wave bars -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M66,30h4v48h-4z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M73,38h4v32h-4z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M80,46h4v16h-4z" />
+</vector>

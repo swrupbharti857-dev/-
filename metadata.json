@@ -1,0 +1,8 @@
+{
+  "name": "Remix ElevenVoice",
+  "description": "AI Text to Speech studio with instant voice cloning, high-fidelity neural audio synthesis, and ultra-low latency controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
